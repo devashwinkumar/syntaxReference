@@ -1,3 +1,7 @@
 Clone a repository:
 
 Git Clone
+
+Get latest changes from repository:
+
+Git Pull
