@@ -1,0 +1,7 @@
+Create Database:
+
+CREATE DATABASE {database name}
+
+Delete Database:
+
+DROP DATABASE {database name}

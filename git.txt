@@ -1,7 +1,11 @@
-Clone a repository:
-
+-Clone a repository:
 Git Clone
 
-Get latest changes from repository:
-
+-Get latest changes from repository:
 Git Pull
+
+-Get the status of the local respostory:
+Git Status
+
+-Add changes to staging area
+Git Add {filename}
