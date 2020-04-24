@@ -7,5 +7,11 @@ Git Pull
 -Get the status of the local respostory:
 Git Status
 
--Add changes to staging area
+-Add changes to staging area:
 Git Add {filename}
+
+--Commit the changes made with a message:
+Git commit -m"{meaningful message}"
+
+--Add staged changes to the remote repositary:
+Git Push 
