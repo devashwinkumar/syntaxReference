@@ -5,13 +5,25 @@ Git Clone
 Git Pull
 
 -Get the status of the local respostory:
-Git Status
+git status
 
 -Add changes to staging area:
-Git Add {filename}
+git Add {filename}
 
 --Commit the changes made with a message:
-Git commit -m"{meaningful message}"
+git commit -m"{meaningful message}"
 
 --Add staged changes to the remote repositary:
-Git Push 
+git push 
+
+--Initalise git repository:
+git init
+
+--Add everything in the current directory to staging area:
+git add .
+
+-- Add multiple files:
+git add {file name} {file name}
+
+-- Add alias name
+git add {alias name} {respository url}
